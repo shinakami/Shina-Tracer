@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6ca4d54849126ef45870c704e6c90c6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tips: {instanceID: 0}
+  - DeathCount: {instanceID: 0}
+  - Gameover: {instanceID: 0}
+  - FPS: {instanceID: 0}
+  - FinalEntrance: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - Firework: {instanceID: 0}
+  - Transition: {instanceID: 0}
+  - LineScript: {instanceID: 0}
+  - StageRecord: {fileID: 11400000, guid: bd5c438081121074ca3d19e1d5546bd3, type: 2}
+  - Timer: {instanceID: 0}
+  - CameraController: {instanceID: 0}
+  - SceneLoader: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
